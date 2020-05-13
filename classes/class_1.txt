@@ -1,0 +1,15 @@
+Class:
+customerOrder
+
+Attributes:
+menuItem (string)
+itemFacts (object)
+itemPrice (float)
+orderSize (array)
+chooseSide (array)
+
+Methods:
+orderLarge = orderSize = large (This method allows customers to choose the size of their meals)
+specialDiscount = itemPrice * .85 = itemPrice (This method allows for managers to give a discount for customer service)
+addDailySpecial (Allows addition of the daily special)
+specialOrder (Accesses and allows for Special Orders)
