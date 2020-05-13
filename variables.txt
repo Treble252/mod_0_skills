@@ -1,0 +1,9 @@
+var food = 'pizza'
+var isDelicious = true
+var food = 'burritos'
+var num2 = 9
+var num7 = 42
+var quotient = num7 / num2
+var songs = ["Rodeo", "Beaches of Cheyenne", "We Shall Be Free", "Mr. Midnight"]
+songs.shift();
+food.length
