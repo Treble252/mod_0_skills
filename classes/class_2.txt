@@ -1,0 +1,14 @@
+Class
+Salad
+
+Attributes
+saladProtein (array)
+dressingType (array)
+dressingOnSide (boolean)
+customerComment (string)
+
+Methods
+selectProtein (Change saladProtein to a choice of chicken, steak, or tofu; default chicken)
+dressingType (Change dressingType to a choice of ranch, Italian, blue cheese, or vinegar; default ranch)
+dressingOnSalad (Change dressingOnSide from true to false to put dressing on the salad)
+addComment (Add a special note to the kitchen from the customer in customerComment; defaults "No Comments")
