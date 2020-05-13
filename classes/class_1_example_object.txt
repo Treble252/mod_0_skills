@@ -1,0 +1,13 @@
+Instance
+Kory's Lunch Order
+
+menuItem = Cheeseburger
+itemFacts = {'meat': "beef", 'toppings': "all", 'bun': true, 'doneness': 'medium'}
+itemPrice = 8.99
+orderSize = ['medium']
+side = ['French Fries']
+
+orderLarge orderSize = ['large']
+specialDiscount itemPrice = 7.64
+specialOrder itemFacts.doneness = 'medium rare'
+changeSide side = ['Sweet Potatoe Fries']
