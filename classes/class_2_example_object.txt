@@ -1,0 +1,12 @@
+Instance
+Sally's salad
+
+saladProtein = 'chicken'
+dressingType = 'ranch'
+dressingOnSide = true
+customerComment = 'No comments'
+
+selectProtein  saladProtein = 'tofu'
+dressingType  dressingType = 'vinegar'
+dressingOnSalad dressingOnSide = false
+addComment customerComment = "Chop the tofu as small as possible. Thank you! :)" 
